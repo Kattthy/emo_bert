@@ -1,0 +1,8 @@
+__pycache__/
+/data/
+/DenseNet-BC_growth_rate=12_depth=100_dataset_FER+/
+/tools/denseface/pretrained_model/
+/tools/opensmile-2.3.0/
+/tools/opensmile-2.3.0.zip
+/test.py
+/test_2.py
